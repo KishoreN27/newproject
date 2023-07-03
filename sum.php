@@ -4,7 +4,7 @@
  
 <?php
 $txt1 = "Sum of x and y is:";
-$x = 134;
+$x = 14434;
 $y = 4321;
  
 echo "<h3>" . $txt1 . "</h3>";
