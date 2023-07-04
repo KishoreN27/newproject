@@ -5,7 +5,7 @@
 <?php
 $txt1 = "Sum of x and y is:";
 
-$x = 100;
+$x = 500;
 
 $y = 4321;
  
